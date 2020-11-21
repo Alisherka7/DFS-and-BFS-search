@@ -1,4 +1,10 @@
 # DFS-and-BFS-search
-<hr>
-![alt text](https://user-images.githubusercontent.com/38793933/99875432-0db74180-2c33-11eb-9557-6a2ee495a28d.jpg)
-
+Input 4 5 1
+<br>
+1 2<br>
+1 3<br>
+1 4<br>
+2 4<br>
+3 4<br>
+Result: 1 2 4 3 DFS<br>
+        1 2 3 4 BFS
