@@ -1,4 +1,4 @@
 # DFS-and-BFS-search
 <hr>
-https://user-images.githubusercontent.com/38793933/99875410-d2b50e00-2c32-11eb-973a-27075d0f8784.png
+![photo_2020-11-21_19-51-46](https://user-images.githubusercontent.com/38793933/99875432-0db74180-2c33-11eb-9557-6a2ee495a28d.jpg)
 
